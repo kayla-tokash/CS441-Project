@@ -8,7 +8,7 @@
 	- UMBC GL
 	- GitHub
 3. Sample data
-	- Airodump
+	- Airodump/Wireshark?
 	- Explain approach to generating sample data
 4. Explain adhoc
 	- What is it?
